@@ -5,3 +5,4 @@
 02index 2024-04-18T09:42:56Z Fabien Thiesset <thiessetfabienpro@gmail.com> # create index
 03crud_functions 2024-04-18T09:48:35Z Fabien Thiesset <thiessetfabienpro@gmail.com> # crud functions create
 04invoice_details 2024-04-18T13:52:38Z Fabien Thiesset <thiessetfabienpro@gmail.com> # details of invoice
+05invoice_recap 2024-04-18T14:16:35Z Fabien Thiesset <thiessetfabienpro@gmail.com> # the recap of invoice with nested query
