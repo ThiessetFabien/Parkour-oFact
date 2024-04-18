@@ -4,7 +4,8 @@
   "description": "## 1 - Création de la BDD",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db:reset": "dropdb ofact && createdb ofact && sqitch deploy"
   },
   "author": "",
   "license": "ISC",
